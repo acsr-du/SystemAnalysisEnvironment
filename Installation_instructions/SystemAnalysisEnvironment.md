@@ -465,8 +465,7 @@ To get id of virtual machine (use sudo xl list command).
 After you have setup Xen, DRAKVUF and Windows, we need to create a proper environment to run and analyse malware logs. For setting up the system for automatic log generation we need to perform the following steps: 
 
 1. Install different softwares e.g. Chrome browser, some compilers, Microsoft .NET framework, setup windows media player, etc. The main point is to make the VM look like a actual physical machine. Also many of malware executables requires some other applications to run on.
-2. 
-3. After you have installed all the softwares and packages you need to make it vulnerable purposely. This is done by disabling Windows defender, update and firewall and also making changes to UAC policies. This step is important for executing malware without failure and in admin approval. <br> ***You can refer to this guide to make your VM vulnerable.*** <br> [Guide for making VM vulnerable](/Installation_instructions/winVulnerable.md)
+2. After you have installed all the softwares and packages you need to make it vulnerable purposely. This is done by disabling Windows defender, update and firewall and also making changes to UAC policies. This step is important for executing malware without failure and in admin approval. <br> ***You can refer to this guide to make your VM vulnerable.*** <br> [Guide for making VM vulnerable](/Installation_instructions/winVulnerable.md)
 
 # VM Save-file/Snapshot creation
 
