@@ -13,6 +13,7 @@ Welcome to the comprehensive guide for setting up a Malware Environment. In toda
 4. **[Logical Volume Manager (LVM) Setup](https://github.com/acsr-du/drakvuf-setup/blob/main/Installation_instructions/SystemAnalysisEnvironment.md#logical-volume-manager-lvm-setup)**
 5. **[Network Setup](https://github.com/acsr-du/drakvuf-setup/blob/main/Installation_instructions/SystemAnalysisEnvironment.md#network-setup)**
 6. **[VM Creation And Configuration](https://github.com/acsr-du/drakvuf-setup/blob/main/Installation_instructions/SystemAnalysisEnvironment.md#vm-creation-and-configuration)**
+    - *[Download link for Windows ISO](https://github.com/acsr-du/drakvuf-setup/blob/main/Installation_instructions/SystemAnalysisEnvironment.md#download-link-for-windows-iso)*
 7. **[Setting Up Additional Tools For VM Memory Introspection](https://github.com/acsr-du/drakvuf-setup/blob/main/Installation_instructions/SystemAnalysisEnvironment.md#setting-up-additional-tools-for-vm-memory-introspection)**
     - *[LibVMI Setup](https://github.com/acsr-du/drakvuf-setup/blob/main/Installation_instructions/SystemAnalysisEnvironment.md#libvmi-setup)*
     - *[Volatility Setup](https://github.com/acsr-du/drakvuf-setup/blob/main/Installation_instructions/SystemAnalysisEnvironment.md#volatility-setup)*
