@@ -1,6 +1,8 @@
 # Complete Guide For Setting Up Malware Scanner Tool
 
-Welcome to the comprehensive guide for setting up a Malware Environment. In today's interconnected digital landscape, cybersecurity has become an increasingly critical concern. Malware, short for malicious software, poses a constant threat to individuals, businesses, and organizations worldwide. To effectively defend against these threats, it is essential to understand how malware operates, evolves, and infiltrates systems. This guide is designed to provide you with a deep insight into the world of malware by walking you through the process of setting up a controlled environment for malware analysis and experimentation. Whether you are a cybersecurity professional looking to enhance your skills, a researcher studying the latest malware trends, or simply curious about the inner workings of malicious software, this guide will serve as your indispensable resource.
+- Welcome to the comprehensive guide for setting up a Malware Environment. In today's interconnected digital landscape, cybersecurity has become an increasingly critical concern. Malware, short for malicious software, poses a constant threat to individuals, businesses, and organizations worldwide. To effectively defend against these threats, it is essential to understand how malware operates, evolves, and infiltrates systems. 
+
+- This guide is designed to provide you with a deep insight into the world of malware by walking you through the process of setting up a controlled environment for malware analysis and experimentation. Whether you are a cybersecurity professional looking to enhance your skills, a researcher studying the latest malware trends, or simply curious about the inner workings of malicious software, this guide will serve as your indispensable resource.
 
 
 ## Table Of Contents
