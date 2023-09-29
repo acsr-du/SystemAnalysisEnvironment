@@ -7,7 +7,7 @@
 
 ## Table Of Contents
 1. **[Prerequisites](https://github.com/acsr-du/SystemAnalysisEnvironment/blob/main/Installation_instructions/systemAnalysisEnvironment.md#prerequisites)**
-    - *[System Configuration](https://github.com/acsr-du/drakvuf-setup/blob/mohitbhatt-du-patch-1/Installation_instructions/systemAnalysisEnvironment.md#system-configuration)*
+    - *[System Configuration](https://github.com/acsr-du/drakvuf-setup/blob/Installation_instructions/systemAnalysisEnvironment.md#system-configuration)*
     - *[Operating System Configuration](https://github.com/acsr-du/drakvuf-setup/blob/main/Installation_instructions/systemAnalysisEnvironment.md#operating-system-configuration)*
     - *[Dependencies and Packages Installation](https://github.com/acsr-du/drakvuf-setup/blob/main/Installation_instructions/systemAnalysisEnvironment.md#dependencies-and-packages-installation)*
 2. **[Cloning Of VMI Tool](https://github.com/acsr-du/drakvuf-setup/blob/main/Installation_instructions/systemAnalysisEnvironment.md#cloning-of-vmi-tool)**
